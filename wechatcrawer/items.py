@@ -14,7 +14,7 @@ class WechatcrawerItem(scrapy.Item):
     pass
 
 
-class WechatArticle(scrapy.Item):
+class WechatArticleItem(scrapy.Item):
     '''
     微信公众号文章实体
     '''
